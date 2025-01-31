@@ -1,4 +1,4 @@
-## 📊 Minhas Linguagens Mais Usadas
+## 📊 Minhas linguagens mais usadas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutodallacb&layout=compact&theme=dracula)
 
