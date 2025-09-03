@@ -4,7 +4,7 @@ Este é o espaço onde compartilho meus projetos, estudos e ideias em desenvolvi
 
 E-mail: gustavo.dcbombassaro@gmail.com 
 
-Portifólio de projetos: https://portifolio-gustavo-bombassaro.vercel.app/ (Ainda em desenvolvimento)
+Portifólio de projetos: https://portifolio-gustavo-bombassaro.vercel.app/ 
 
 Linkedin: [LinkedIn](https://www.linkedin.com/in/gustavo-dalla-costa-bombassaro-59bb18179/).
 
